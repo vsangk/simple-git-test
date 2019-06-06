@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vsangk/simple-git-test#readme",
   "dependencies": {
+    "chalk": "^2.4.2",
     "lerna": "^3.14.1",
     "simple-git": "^1.113.0"
   }
